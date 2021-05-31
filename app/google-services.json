@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "844908453346",
+    "firebase_url": "https://gemify-t2-default-rtdb.firebaseio.com",
+    "project_id": "gemify-t2",
+    "storage_bucket": "gemify-t2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844908453346:android:329715b6030553cb3e2dbb",
+        "android_client_info": {
+          "package_name": "com.pooja.khanakhalo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844908453346-luqgnnhpa392hr2fk1v9m5p9409b7d3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaoZtve7BoZp_tzf0bODNUaczaTXdtCNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844908453346-luqgnnhpa392hr2fk1v9m5p9409b7d3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
